@@ -1,3 +1,6 @@
+-- Online compiler
+-- https://www.mycompiler.io/new/mysql
+
 -- create a table
 CREATE TABLE business_order (
     orderid integer primary key,
